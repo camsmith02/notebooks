@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Automating GIS processes: notebooks used during the lessons at the University of Helsinki
 
 This repository contains the notebooks used in contact-teaching. The [docker image used for CSC
@@ -17,3 +18,7 @@ commit and push, to upload the new content.
 **At the beginning of the teaching period**, remember to replace `environment.yml` with an
 updated listing all packages pinned to the current year’s versions (see the [README in 
 `Automating-GIS-processes/site`](https://github.com/Automating-GIS-processes/site/blob/main/README.md)).
+=======
+# AutoGIS
+autogis repository
+>>>>>>> 9089ba6 (Initial commit)
